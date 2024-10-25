@@ -1,4 +1,4 @@
-
+#test
 # Install the required MySQL package
 
 sudo apt-get update -y
